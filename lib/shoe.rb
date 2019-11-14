@@ -11,5 +11,10 @@ class Shoe
     @brand 
   end 
   
-  def color
+  def color =(color) 
+    @color = color 
+  end 
+  
+  def color 
+    @color
 end 
