@@ -41,6 +41,6 @@ class Shoe
  
   def condition 
     @condintion
-    
+  end 
   
 end 
