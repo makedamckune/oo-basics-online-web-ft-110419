@@ -49,3 +49,4 @@ class Shoe
 end 
 
 shoe = Shoe.new(condition)
+shoe.
